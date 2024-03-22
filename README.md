@@ -15,5 +15,4 @@ Whatever I do, I do with perfection, Takes work ethics very seriously, Loves to 
 
 </p>
 
-![mahdiramazani](https://raw.githubusercontent.com/mahdiramazani/mahdiramazani/f4748a94686355ca692587f493bf1c158e48e7b4/bottom_header.svg)
 
